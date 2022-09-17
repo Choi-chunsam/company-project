@@ -61,6 +61,7 @@ public class Main {
 		System.out.println("전체 평균은 " + mean + " 입니다.");
 		
 		scanner.close();
+		"야이 너무 어렵다";
 	}
 
 }
